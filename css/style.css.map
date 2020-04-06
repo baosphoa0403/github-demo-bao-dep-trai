@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AACI,OAAC;ECAD,KAAK,ECDG,GAAG",
+"sources": ["../scss/components/_carousel.scss","../scss/helper/_mixin.scss","../scss/helper/_variable.scss"],
+"names": [],
+"file": "style.css"
+}
